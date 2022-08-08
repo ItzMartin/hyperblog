@@ -1,7 +1,3 @@
-Hello, thats my first text file make it with the terminal.
+Hello, thats my first text file make it with the terminal 
 
-Hola, este es mi primer archivo de texto que guardare en un repositorio!
-
-Vamos a probar el checkout
-
-El checkout ha funcionado correctamente!
+Como podemos observar, se acaban de unir las ramas en las que se estaba trabajando
