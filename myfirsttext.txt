@@ -1,1 +1,3 @@
-Hello, thats my first text file make it with the terminal 
+Hello, thats my first text file make it with the terminal.
+
+Hola, este es mi primer archivo de texto que guardare en un repositorio!
