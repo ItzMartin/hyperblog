@@ -3,3 +3,5 @@ Hello, thats my first text file make it with the terminal
 Como podemos observar, se acaban de unir las ramas en las que se estaba trabajando
 
 Practica de todo lo que vimos, agregare otro commit para tener mas informacion.
+
+Esto es un error a proposito!!!!
