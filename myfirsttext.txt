@@ -5,3 +5,5 @@ Como podemos observar, se acaban de unir las ramas en las que se estaba trabajan
 Practica de todo lo que vimos, agregare otro commit para tener mas informacion.
 
 Esto es un error a proposito!!!!
+
+Otro error que no debe de ir en el repositorio!!!!
