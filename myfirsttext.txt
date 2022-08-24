@@ -7,3 +7,5 @@ Practica de todo lo que vimos, agregare otro commit para tener mas informacion.
 Esto es un error a proposito!!!!
 
 Escribiendo informacion para probar GIT HUB
+
+ERROR ARREGLADO!!
